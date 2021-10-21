@@ -1,0 +1,20 @@
+Git - Versionamento de código, ou seja, identifica a origem e destino do código e controla mais versões (alterações) deste mesmo código.
+
+Git Hub - Armazenamento remoto dos códigos
+
+.git (pasta oculta) - genrenciador de repositório e de histórico sobre todos os comandos feito no git.
+
+*Criação de credencial - Git Bash Here >> git init >> git config --global user.email 'meu email' >> git config --global user.name 'meu usário' >> (git config user.name/email ou git config --list) >> git status >> git remote add origin (link) >> git commit -m 'bla bla bla' >> git push -u origin master
+
+
+*Atualização do histórico - Novo Terminal / Git Bash Here >> git add . (ou -A quando quero informar que algum arquivo foi excluido) >> git commit -m 'bla bla bla' >> git push
+
+*
+
+*Remoção de credencial - Iniciar >> Gerenciador de credenciais >>  Credenciais do Windows >> "git:https://github.com" >> "Remover >> 
+
+
+
+
+
+Meu token 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
